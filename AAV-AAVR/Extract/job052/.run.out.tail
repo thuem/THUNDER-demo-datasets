@@ -1,0 +1,6 @@
+2.68/3.40 min ...............................................~~(,_,">warning: There are only 1 particles in micrograph data/aavr_1281_cor2.mrc. Consider joining multiple micrographs into one group. 
+4.03/4.05 min ...........................................................~~(,_,">warning: There are only 8 particles in micrograph data/aavr_0827_cor2.mrc. Consider joining multiple micrographs into one group. 
+4.95/4.95 min ............................................................~~(,_,">
+ Joining metadata of all particles from 1320 micrographs in one STAR file...
+ Written out STAR file with 40767 particles in Extract/job052/particles.star
+ Done preprocessing!

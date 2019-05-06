@@ -1,0 +1,5 @@
+
+ ++++ Executing new job on Thu May 24 19:03:34 2018
+ ++++ with the following command(s): 
+`which relion_preprocess_mpi` --i CtfFind/job046/micrographs_ctf.star --coord_dir AutoPick/job047/ --coord_suffix _autopick.star --part_star Extract/job052/particles.star --part_dir Extract/job052/ --extract --extract_size 440 --norm --bg_radius 165 --white_dust -1 --black_dust -1 --invert_contrast  
+ ++++ 
