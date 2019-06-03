@@ -2,6 +2,10 @@
 
 some datasets for THUNDER demonstration
 
+## Download Instruction
+
+As Github has file size limit, it is only possible to upload and download large files using Github LFS service. Check https://git-lfs.github.com for Github LFS service, please.
+
 ## AAV-AAVR (AAV-AAVR Complex)
 
 ### Data Acquisition
